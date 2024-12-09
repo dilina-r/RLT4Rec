@@ -1,0 +1,7 @@
+data/train/*
+data/test_users/*
+data/groups/*
+__pycache__/
+saved_models/*
+*.json
+*.pth
